@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#locale                   : "en-US"
-locale                    : "zh_CN.utf8"
+locale                   : "en-US"
+#locale                    : "zh_CN.utf8"
 title                    : "Xiwu Zhang"
 title_separator          : "-"
-name                     : &name "Xiwu Zhang(张希武)"
+name                     : &name "Xiwu Zhang"
 description              : &description "Ph.D. candidate at Nanjing University of Science and Technology"
 url                      : https://zhangxiwuu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiwu Zhang"
+  name             : "Xiwu Zhang(张希武)"
   avatar           : "zxw.jpg"
   bio              : "Ph.D. candidate at Nanjing University of Science and Technology (NJUST)"
   location         : "Nanjing, Jiangsu, China"
