@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "中文简历"
+    url: /files/CV_Zhang_Xiwu_zh.pdf
+   
   - title: "Guide"
     url: /markdown/
